@@ -1,0 +1,2 @@
+Contribute to this repo by making changes is diffrent branch after you clone it, and make sure that you create folder with the contribution you made so that this repo does not look destructured. 
+Thank You!!
